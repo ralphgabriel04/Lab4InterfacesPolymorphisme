@@ -1,5 +1,3 @@
-Here's the English version of the README:
-
 # 🔢 Polynomial Project - Algebraic Manipulation in Java
 
 ## 📌 Description
